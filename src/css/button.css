@@ -1,0 +1,26 @@
+button{
+    
+    font-size: 17px  !important;
+    font-weight: bold !important;
+    
+}
+    
+
+button:hover{
+    background-color: #F2F2F2;
+}
+
+
+
+.custom{
+    color: #65676B  !important;
+}
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+
+
+
+ 

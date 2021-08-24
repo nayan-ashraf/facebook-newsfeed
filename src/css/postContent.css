@@ -3,3 +3,8 @@
     margin-bottom: 30px;
     justify-content: justify;
 }
+
+.post_content h6{
+    font-size: 22px;
+    padding:0 10px;
+}

@@ -4,7 +4,9 @@
     height: 50px;
     border-radius: 50%;
 }
-
+.profile_name{
+    width:80%;
+}
 .profile_name h6{
     margin: 0 !important;
     padding: 0 !important;
@@ -18,3 +20,20 @@
     font-size:14px;
 }
 
+.dropstart btn{
+    border:none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;  
+    font-weight: bold !important;
+    color:gray;
+   
+}
+.dropstart btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.dropdown-menu li a{
+    color:gray !important;
+}

@@ -1,0 +1,21 @@
+.header{   
+    background-color: white !important;
+    height: 60px !important;
+    
+    
+}
+.header_button{
+    margin:0;
+    height: 60px;
+    
+}
+
+.header_right_button{
+    height: 50px;
+    width: 50px;    
+    border-radius: 50% !important;
+    color: rgb(31, 31, 31);
+    background-color: #F0F2F5 !important;
+    outline: transparent;
+    border-style: none;
+}
